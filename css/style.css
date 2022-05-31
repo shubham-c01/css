@@ -1,0 +1,48 @@
+body{
+    background-color: #EAF6F6;
+    }
+
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+h1{
+    font-size: 50px;
+    text-shadow: 2px 2px 5px;
+
+}
+   h1:hover{
+            color: royalblue;
+ }
+   h3{
+       color: #66BFBF;
+   }
+   
+ img:hover{
+    
+     background-color:black;
+ }
+ /********************class selector************/
+ .img {
+    background-color: rgb(255, 145, 0);
+ }
+p:hover{
+    color: brown;
+    
+
+}
+
+
+
+ 
+ 
+
+
+ 
+
+  
+  
+
